@@ -1,6 +1,3 @@
-class Some:
-    def __init__(self, value=0):
-        self.input = value
+from problems.multiplesOf3and5 import multiplesof3and5
 
-
-print("I can print")
+multiplesof3and5()

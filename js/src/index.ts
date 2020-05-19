@@ -1,5 +1,3 @@
-const add = (a: number, b: number) => {
-  return a + b;
-};
+import { multiplesOf3And5 } from "./problems/problem1_multiplesOf3And5";
 
-console.log(add(3, 2));
+multiplesOf3And5();

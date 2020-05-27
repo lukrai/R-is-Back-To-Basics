@@ -5,6 +5,7 @@ import { largestPolindrome } from "./problems/problem4_LargestPolindrome";
 import { smallestDivided } from "./problems/problem5_SmallestDividable";
 import { sumSquareDifference } from "./problems/problem6_SumSquareDifference";
 import { findPrime } from "./problems/problem7_10001stPrime";
+import { largestProductInASeries } from "./problems/problem8_LargestProductInASeries";
 
 // multiplesOf3And5();
 // evenFibonacciSum();
@@ -13,4 +14,5 @@ import { findPrime } from "./problems/problem7_10001stPrime";
 // smallestDivided();
 // sumSquareDifference();
 // sumSquareDifference();
-findPrime();
+// findPrime();
+largestProductInASeries();
